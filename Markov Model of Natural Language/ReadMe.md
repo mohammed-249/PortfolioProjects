@@ -25,14 +25,9 @@ When generating characters or text, I used the calculated probabilities from the
 1. I tested the model on different inputs, varying sizes and orders. Increasing the order generally led to more complex and realistic text generation.
 2. I tried it on various texts, including ones I wrote, and the results were often surprisingly entertaining and coherent.
 
-## Extra Credit
-
-I implemented an extra feature where the model can replace unknown characters (`~`) in a noisy message with the most likely character based on the surrounding context. This adds a fun layer of error correction to the text generation capabilities.
-
 ## Bonus: :sparkles:
 
 I've included two of the most entertaining language-modeling fragments I discovered in the deliverables. You'll have to check them out to see what they are!
 
 **Overall, this project was a fascinating exploration of Markov models and their potential for text generation. I learned a lot about data structures, probabilities, and how to build algorithms for analyzing and manipulating text data. I'm excited to see how this technology can be further developed and applied to generate even more creative and engaging text formats.**
 
-Feel free to ask me any questions about the project or try it out for yourself!
